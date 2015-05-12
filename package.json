@@ -1,15 +1,12 @@
 {
   "name": "howtonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learn how to use npm",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "howtonpm"
-  },
+  "repository": "https://github.com/brianjsullivan/howtonpm",
   "keywords": [
     "npm",
     "tutorial",
@@ -19,6 +16,5 @@
   "license": "MIT",
   "dependencies": {
     "once": "^1.3.0"
-  },
-  "repository": "https://github.com/brianjsullivan/howtonpm"
+  }
 }
