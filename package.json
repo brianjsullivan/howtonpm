@@ -1,0 +1,19 @@
+{
+  "name": "howtonpm",
+  "version": "1.0.0",
+  "description": "Learn how to use npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "htnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "howtonpm"
+  },
+  "keywords": [
+    "npm",
+    "tutorial"
+  ],
+  "author": "brian.sullivan",
+  "license": "MIT"
+}
